@@ -99,7 +99,7 @@ print(猫.叫())  # 猫：喵！
 
 ## 👨‍💻 作者
 
-- **ERORBR** - [GitHub](https://github.com/你的用户名)
+- **Flygpro** - [GitHub](https://github.com/flygpro)
 
 ---
 
